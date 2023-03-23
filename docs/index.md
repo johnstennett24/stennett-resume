@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: John Stennett Resumes
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# John Stennett
+
+Software Engineering Student at BYU-I
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
