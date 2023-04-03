@@ -7,10 +7,10 @@ title: John Stennett Resumes
 Software Engineering Student at BYU-I
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="john.stennett@stencoinc.com">john.stennett@stencoinc.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="[https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/johnstennett24">GitHub</a> 
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
