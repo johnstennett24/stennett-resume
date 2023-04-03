@@ -9,7 +9,7 @@ Software Engineering Student at BYU-I
 <div id="webaddress">
 <a href="john.stennett@stencoinc.com">john.stennett@stencoinc.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="[https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 | <a href="https://github.com/johnstennett24">GitHub</a> 
 </div>
 
